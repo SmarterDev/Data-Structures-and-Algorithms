@@ -1,0 +1,14 @@
+    //Declares 2d array
+    String[][] array = {{"john", "ryan", "ryan", "sammy", "sammy", "ant", "a", "b", "c", "d", "e"},
+                         {"john", "ryan" , "kat", "a", "b", "c", "d", "e", "ryan"},
+                         {"john", "ryan" , "kat", "mallary", "a", "b", "c","ryan", "d", "e"},
+                         {"john", "ryan", "ryan" , "kat", "mallary", "sammy", "a", "b", "c", "d", "e"},
+                         {"john", "ryan" , "kat", "mallary", "sammy", "ant", "ryan", "a", "b", "c", "d", "e"}}; 
+    
+    
+    //Declares 2d array
+    String[][] array = {{"john", "ryan", "sammy", "ryan"},
+                         {"john", "ryan" , "sammy", "a"},
+                         {"john", "ryan" , "sammy", "mallary"},
+                         {"john", "ryan", "sammy", "ryan" },
+                         {"john", "ryan" , "sammy", "mallary"}};
