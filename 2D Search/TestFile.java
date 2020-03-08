@@ -16,14 +16,6 @@ public class TestFile
                          {"john", "ryan", "ryan" , "kat", "mallary", "sammy", "a", "b", "c", "d", "e"},
                          {"john", "ryan" , "kat", "mallary", "sammy", "ant", "ryan", "a", "b", "c", "d", "e"}}; 
     
-    
-    //Declares 2d array
-    /*String[][] array = {{"john", "ryan", "sammy", "ryan"},
-                         {"john", "ryan" , "sammy", "a"},
-                         {"john", "ryan" , "sammy", "mallary"},
-                         {"john", "ryan", "sammy", "ryan" },
-                         {"john", "ryan" , "sammy", "mallary"}};
-    */
     //Creates object to call findCommonElements method
     CommonElements object = new CommonElements();
     
